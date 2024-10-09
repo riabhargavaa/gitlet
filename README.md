@@ -1,2 +1,2 @@
-# gitlet
+# Gitlet
 Gitlet is a small and efficient version of Git version control system, featuring file restoration, branch merges, and conflict resolution. I implemented SHA-1 encryption with hash tables to ensure data integrity and optimize runtime and utilized a tree-based class with data-carrying nodes to manage all file versions. I completed the project without external imports, emphasizing serialization, file manipulation, and appropriate data structures.
